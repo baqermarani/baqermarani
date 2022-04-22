@@ -10,9 +10,9 @@
 ![](https://user-images.githubusercontent.com/60050143/164699780-60a37bd1-b758-4a08-9cbc-cb625b26818b.jpg)
 
 
+<br>
 
 - I am a Computer Engineering graduate , Actully My Degrees is **B.S.**
-
 - I’m currently learning **Backend Frameworks and DevOps.** , I attach great importance to teamwork and learning new concepts while working, and I am eager to learn and learn my favorite topics well.
 
 
